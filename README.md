@@ -36,8 +36,8 @@ def colorier(grille,i,j,couleur_initiale,couleur_finale):
 - Implication en classe durant les séances de projet
 - Respect des consignes
 - Organisation et propreté du code informatique
-- Présence de commentaires dans le code (Avec #)
-- Spécifications des fonctions ("""...""")
+- Présence de commentaires dans le code (*Avec #*)
+- Spécifications des fonctions (`"""..."""`)
 - Rapport clair avec un contenu significatif
 
 ## Remise du projet
