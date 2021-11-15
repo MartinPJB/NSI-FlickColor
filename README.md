@@ -1,4 +1,4 @@
-(This is not a tutorial on how to **create the game FlickColor in Python with very precise instructions**, but a computer science project)
+(This is not a tutorial on how to **create the game FlickColor in Python with very precise instructions**, but a project for my computer science class)
 # NSI - Projet n°1 [Classe de terminale]
 *Instructions du projet*
 
